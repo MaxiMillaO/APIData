@@ -45,7 +45,7 @@ server.post("/reset-password", (req, res) => {
   writeJson(data);
 
   // Enviar el correo con el enlace para restablecer la contraseña
-  const resetLink = `http://localhost:8100/reset-password/${resetToken}`; // Cambia la URL
+  const resetLink = `https://apidata-4bv6.onrender.com/reset-password/${resetToken}`; // Cambia la URL
   const mailOptions = {
     from: "trabajoduoc2024@gmail.com", // Cambia esto por tu email
     to: email,
