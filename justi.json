@@ -1,0 +1,123 @@
+{
+  "justificacion": [
+    {
+      "id": "1",
+      "asignatura": "Estadistica Descriptiva",
+      "fecha": "20/05/2024",
+      "descripcion": "Me dolia la wata",
+      "profesor": "Alfredo Aguilera"
+    },
+    {
+      "id": "2",
+      "asignatura": "Arquitectura",
+      "fecha": "11/09/2024",
+      "descripcion": "Me cai  y me rompi la rodilla",
+      "profesor": "Christian Lazcano"
+    },
+    {
+      "id": "32a5",
+      "asignatura": "Estadistica Descriptiva",
+      "fecha": "19/05/2024",
+      "descripcion": "Me dolia la cabeza",
+      "profesor": "Raul"
+    }
+  ],
+  "usuarios": [
+    {
+      "id": "1",
+      "rut": "196669899",
+      "nombre": "Roberto Lopez",
+      "email": "usuario1@mail.cl",
+      "password": "sate1234",
+      "isactive": true
+    },
+    {
+      "id": "2",
+      "rut": "213245362",
+      "nombre": "Luchito Potoxico",
+      "email": "usuario2@mail.cl",
+      "password": "duoc1234",
+      "isactive": true
+    },
+    {
+      "id": "bab8",
+      "rut": "213242792",
+      "nombre": "juanito milla",
+      "email": "juanchi@bolas.cl",
+      "password": "12345678Maxi",
+      "isactive": true
+    },
+    {
+      "id": "ad0c",
+      "rut": "213242792",
+      "nombre": "asdasdasda",
+      "email": "asdas@asdas.cl",
+      "password": "9817239812maxiasd",
+      "isactive": true
+    },
+    {
+      "id": "4a34",
+      "rut": "213242792",
+      "nombre": "adasdasd",
+      "email": "asijdkas@asldas",
+      "password": "4564654545455m",
+      "isactive": true
+    },
+    {
+      "id": "db66",
+      "rut": "213242792",
+      "nombre": "asdasdas",
+      "email": "asdasd@sda",
+      "password": "946876565m",
+      "isactive": true
+    },
+    {
+      "id": "f4d2",
+      "rut": "123456789",
+      "nombre": "pedrito",
+      "email": "pedrito@haha.cl",
+      "password": "duoc1234",
+      "isactive": true
+    },
+    {
+      "id": "87c7",
+      "rut": "987654321",
+      "nombre": "kiara",
+      "email": "kiara20@peru.cl",
+      "password": "duoc1234",
+      "isactive": true
+    },
+    {
+      "id": "4c47",
+      "rut": "215420110",
+      "nombre": "pablito",
+      "email": "pesadilla@dj.cl",
+      "password": "123456789dj",
+      "isactive": true
+    },
+    {
+      "id": "8386",
+      "rut": "112233445",
+      "nombre": "PedritoRasca",
+      "email": "pedritorasca@gmail.com",
+      "password": "123456789Ma",
+      "isactive": true
+    },
+    {
+      "id": "b1f3",
+      "rut": "128591133",
+      "nombre": "kika ramirez",
+      "email": "kika@gmail.com",
+      "password": "96467576Maxi",
+      "isactive": true
+    },
+    {
+      "id": "2069",
+      "rut": "555555555",
+      "nombre": "pedrope",
+      "email": "pedrope@mail.com",
+      "password": "96467576Ma",
+      "isactive": true
+    }
+  ]
+}
